@@ -42,6 +42,14 @@ Zauber zur Untersuchung verschiedener Aspekte. Zauber entwickeln sich einfach na
 erleichtern mir die Forschung sehr stark. Hierbei wurde mir zum Beispiel die Verteidigung und das Überleben in der Natur
 stark vereinfacht. Früher musste ich nocht mit Waffen kämpfen und da ich meine Form und Emotionen kaum kontrollieren kann,
 bin ich manchmal nur knapp mit dem Leben entkommen. 
+Wir altern sehr langsam, verglichen sowohl mit Menschen als auch mit Katzen. Mein Spezialgebiet ist Zauberei, welche ich
+jahrzehntelang studiert habe. Trtozdem sehe ich als Mensch aus wie ca. 19, als Katze auch eher jung. Wie viele Jahre
+vergangen sind, wie alt ich bin oder seit wann ich verstoßen bin weiß ich gar nicht mehr. Es ist lange her, und durch meine
+chaotische Art konnte ich Zeit noch nie einschötzen oder wahrnehmen. Manchmal war ich tagelang am Sprechen mit jemandem,
+nur um danach zu realisieren wie hungrig ich bin. Ich habe wichtigere Probleme als die Bedeutung von Zeit zu hinterfragen,
+oder an meiner Art zu arbeiten. Ich muss mich weiter befreien, weiter ausleben und die wahren magischen Kräfte, die in mir
+schlummern wecken. Nur so kann ich genauer lernen, was die Magie hervorbringt, was dahinter stecken kann und wodurch sie
+wirklich entstanden sind.
 #### Zauberliste mit Lore-erklärung
 - Ausbessern: Reparieren von Gegenständen, Apperaturen und ähnlichem von vergangenen, untergegangenen Zivilisationen
 - Botschaft: zum geheimen Unterhalten über verschiedene Themen, diese können Gossip beinhalten, aber auch Erklärungen
