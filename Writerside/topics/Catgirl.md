@@ -8,7 +8,7 @@ optimal ist aber eine Form der Lykanthropie welche im Folgenden genauer erläute
 Die Idee besteht aus einer Art der Lykanthropie, die entweder eine Katze in einen Menschen verwandelt
 oder einen Menschen in eine Katze. In diesem Fall habe ich mich für die erste Variante entschieden.
 Hierzu ist es wichtig eine Background-Story zu erfinden, welche im Laufe des Textes entstehen wird.  
-Für die Erstellung des Charakters habe ich mit an Tabaxis aus [Volo's Guide to Monsters](https://xthesebx.github.io/DnDBooks/books/D&D%205E%20-%20Volo's%20Guide%20to%20Monsters.pdf)
+Für die Erstellung des Charakters habe ich mit an Tabaxis aus [Volo's Guide to Monsters](https://xthesebx.github.io/DnDBooks/books/D&D%205E%20-%20Volo's%20Guide%20to%20Monsters.pdf#page=114)
 orientiert. Die Eigenschaften der Tabaxi übernehme ich auch quasi komplett für die Mischform.  
 Die Idee basiert außerdem durch die Lykanthropie auf eine Art der ungeplanten Formwandlung. Dies kann z.B.
 durch äußere Einflüsse geschehen, wie der Vollmond, oder in dem Fall durch Emotionen.
@@ -53,7 +53,7 @@ bin ich manchmal nur knapp mit dem Leben entkommen.
 - Attribut Verbessern: Zur Stärkung meiner schwächen und verringerung meiner Schwächen, wenn benötigt
 - Gedanken Wahrnehmen: Gedanken von Kreaturen wahrnehmen um mehr über ihre Natur, ihre Hintergründe zu erfahren
 ### Werte
-Die Idee ist einen [Wild Magic Sorcerer](https://xthesebx.github.io/DnDBooks/books/D&D%205E%20-%20Player's%20Handbook.pdf) daraus zu machen. Es können natürlich auch andere Klassen gewählt werden,
+Die Idee ist einen [Wild Magic Sorcerer](https://xthesebx.github.io/DnDBooks/books/D&D%205E%20-%20Player's%20Handbook.pdf#page=100) daraus zu machen. Es können natürlich auch andere Klassen gewählt werden,
 aber meiner Meinung nach ergibt eine Klasse mit einem höheren HP Wert als 1w6 pro Level keinen Sinn.
 Catgirls sind fragil und sollten nicht sehr tanky sein. Eine weitere Eigenschaft ist, dass die Katzenform
 logischerweise schwächer sein sollte was die HP angeht als die Menschform oder Mischform. Hierbei haben wir uns
@@ -97,3 +97,168 @@ Unbeherrschtheit auftauchen. Dies kann durch kämpferisches Verhalten geschehen,
 Die Katzenform steht für die Gewandheit, Flinkheit und für die Möglichkeit sich zu verstecken. Hierbei wird diese Form
 vor allem bei Verspieltheit erscheinen, aber auch bei Angst, Irritation oder Trauer. Diese Form ist aber auch beim 
 Verlangen ungesehen und versteckt zu sein von größter Bedeutung.
+
+<table>
+    <tr>
+        <td>Name: Aurelia</td>
+        <td>
+            <table>
+                <tr>
+                    <td>
+                    Klasse & Stufe: Zauberer 3
+                    </td>
+                    <td>
+                    Hintergrund: Weiser
+                    </td>
+                    <td>
+                    Spielername: Seb
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Volk: Katze/Mensch
+                    </td>
+                    <td>
+                    Gesinnung: Chaotic Neutral
+                    </td>
+                    <td>
+                    Exp:
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td><table><tr><td><table><tr><td><table><tr><td>Stärke<br/>8<br/>-1</td></tr>
+<tr>
+<td>
+Geschicklichkeit<br/>14<br/>+2
+</td>
+</tr>
+<tr>
+<td>
+Konstitution<br/>10<br/>0
+</td>
+</tr>
+<tr>
+<td>
+Intelligenz<br/>15<br/>+2
+</td>
+</tr>
+<tr>
+<td>
+Weisheit<br/>14<br/>+2
+</td>
+</tr>
+<tr>
+<td>
+Charisma<br/>14<br/>+2
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table>
+<tr>
+<td>0 Inspiration</td>
+</tr>
+<tr><td>+2 Übungsbonus</td></tr>
+<tr><td>
+<table>
+<tr><td>[ ] -1 Stärke</td></tr>
+<tr><td>[ ] +2 Geschicklichkeit</td></tr>
+<tr><td>[X] +2 Konstitution</td></tr>
+<tr><td>[ ] +2 Intelligenz</td></tr>
+<tr><td>[ ] +2 Weisheit</td></tr>
+<tr><td>[X] +4 Charisma</td></tr>
+<tr><td>Rettungswürfe</td></tr>
+</table>
+</td>
+</tr>
+<tr><td><table>
+<tr><td>[ ] +2 Akrobatik</td></tr>
+<tr><td>[X] +4 Arkane Kunde</td></tr>
+<tr><td>[ ] -1 Athletik</td></tr>
+<tr><td>[ ] +2 Auftreten</td></tr>
+<tr><td>[ ] +2 Einschüchtern</td></tr>
+<tr><td>[ ] +2 Fingerfertigkeit</td></tr>
+<tr><td>[X] +4 Geschichte</td></tr>
+<tr><td>[X] +4 Heimlichkeit</td></tr>
+<tr><td>[ ] +2 Medizin</td></tr>
+<tr><td>[ ] +2 Mit Tieren umgehen</td></tr>
+<tr><td>[ ] +2 Motiv erkennen</td></tr>
+<tr><td>[ ] +2 Nachforschungen</td></tr>
+<tr><td>[ ] +2 Natur</td></tr>
+<tr><td>[X] +4 Religion</td></tr>
+<tr><td>[ ] +2 Täuschen</td></tr>
+<tr><td>[X] +4 Überzeugen</td></tr>
+<tr><td>[X] +4 Wahrenhmung</td></tr>
+<tr><td>[ ] +2 Überleben</td></tr>
+</table></td></tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+<tr><td>14 Passive Wahrnehmung</td></tr>
+<tr><td>
+Gemeinsprache, Elfisch, Sylvanisch, Drakonisch<br/>
+Dolche, Wurfpfeile Schleuder, Kampfstab, leichte Armbrust<br/>
+Weitere Übungen und Sprachen
+</td></tr>
+</table></td>
+<td><table><tr><td><table><tr><td>12 Rüstungsklasse</td><td>+2 Initiative</td><td>9-12 Bewegungsrate</td></tr></table>
+</td>
+</tr>
+<tr><td>Trefferpunkte Maximum 15/12/8<br/>15/12/8<br/>Aktuelle Trefferpunkte</td></tr>
+<tr><td>Temporäre Trefferpunkte</td></tr>
+<tr><td><table><tr><td>Gesamt: 3w6<br/>3w6<br/>Trefferwürfel</td><td>Erfolge [ ] [ ] [ ]<br/>
+Fehlschläge [ ] [ ] [ ]<br/>Todesrettungswürfe</td></tr></table>
+</td></tr>
+<tr><td><table><tr><td>Name</td><td>bonus</td><td>Schaden/Art</td></tr>
+<tr><td>Leichte Armbrust</td><td>+4</td><td>1w8+2 Stichschaden</td></tr>
+<tr><td>Dolch</td><td>+4</td><td>1w4+2 Stichschaden</td></tr>
+<tr><td>Klauen</td><td>0</td><td>1w4-1 Hiebschaden</td></tr>
+<tr><td>Säurespritzer</td><td>Geschicklichkeit</td><td>1w6 Säureschaden</td></tr>
+<tr><td>Schokgriff</td><td>+4</td><td>1w8 Blitzschaden</td></tr>
+<tr><td>Magisches Geschoss</td><td>immer</td><td>3x 1w4+1 Energieschaden</td></tr></table>
+</td></tr>
+<tr><td>Lageramulett (Zeichen des Gottes), 20 Bolzen, Materialkomponentenbeutel
+Tinte, Schreibfeder, Pergament, Messer, Reisegeschirr, Zunderkästchen, 10 Tagesrationen
+Trinkschlauch mit Milch, 15 m Seil, Säure</td></tr></table>
+</td>
+
+<td>
+<table><tr><td>
+Chaos, gesegnet von Katzengott mit unerklärlicher Magie<br/>
+Persönlichkeitsmerkmale
+</td></tr>
+<tr><td>
+Wissen, alles über die Welt erfahren<br/>Ideale
+</td></tr>
+<tr><td>
+Wissenschaftliche Arbeit über Zauberer und die Magie dieser schreiben<br/>
+Bindungen
+</td></tr>
+<tr><td>
+Nur Eigeninteresse, halte mich für besser als alle anderen<br/>
+Makel
+</td></tr>
+<tr><td>
+Dunkelsicht 18 m, 3 Zaubereipunkte, Metamagie: subtiler Zauber, 
+beschleunigter Zauber; Zauberplätze erschaffen
+<table><tr><td>Zaubergrad</td><td>Punkte</td></tr>
+<tr><td>1</td><td>2</td></tr>
+<tr><td>2</td><td>3</td></tr>
+<tr><td>3</td><td>5</td></tr>
+<tr><td>4</td><td>6</td></tr>
+<tr><td>5</td><td>7</td></tr>
+</table>
+Woge der wilden Magie, Gezeiten des Chaos, als Katze: scharfer Geruchssinn,
+Klettern: 0/6/9
+<br/>Merkmale
+</td></tr>
+</table>
+</td>
+    </tr>
+</table>
