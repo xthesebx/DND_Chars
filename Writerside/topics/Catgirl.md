@@ -127,6 +127,7 @@ eine lange Zeit damit zu schreiben. Hierbei schreibt sie in einer Sprache und li
 komplett unverständlich ist. Oder sind es doch mehrere Sprachen? Sie wird die anderen Charaktere sich dumm fühlen lassen,
 dafür sorgen, dass Streitigkeiten entstehen zu ihrer Belustigung und allgemein große, fast unerreichbare Erwartungen haben.
 ## Character Sheet
+<!-- ignore the tables for now, they are ugly but the best representation possible -->
 ### Page 1
 <table>
     <tr>
