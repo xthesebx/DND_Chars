@@ -7,6 +7,7 @@
                  start-page="starter.md">
 
     <toc-element topic="Catgirl.md"/>
-    <toc-element toc-title="DND"/>
+    toc-element toc-title="DND"/>
     <toc-element topic="starter.md"/>
+    <toc-element topic="CharSheet.md"/>
 </instance-profile>

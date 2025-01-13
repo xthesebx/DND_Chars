@@ -98,6 +98,8 @@ Die Katzenform steht für die Gewandheit, Flinkheit und für die Möglichkeit si
 vor allem bei Verspieltheit erscheinen, aber auch bei Angst, Irritation oder Trauer. Diese Form ist aber auch beim 
 Verlangen ungesehen und versteckt zu sein von größter Bedeutung.
 
+## Character Sheet
+### Page 1
 <table>
     <tr>
         <td>Name: Aurelia</td>
@@ -253,7 +255,7 @@ beschleunigter Zauber; Zauberplätze erschaffen
 <tr><td>3</td><td>5</td></tr>
 <tr><td>4</td><td>6</td></tr>
 <tr><td>5</td><td>7</td></tr>
-</table>
+</table> 
 Woge der wilden Magie, Gezeiten des Chaos, als Katze: scharfer Geruchssinn,
 Klettern: 0/6/9
 <br/>Merkmale
@@ -261,4 +263,125 @@ Klettern: 0/6/9
 </table>
 </td>
     </tr>
+</table>
+
+### Spell Sheet
+<table>
+<tr>
+<td>
+<table><tr><td><table><tr><td>Zauberer</td><td>Charisma</td>
+<td>12</td><td>4</td></tr></table>
+</td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tr><td>
+<table>
+<tr>
+<td>
+<table>
+<tr>
+<td>
+<table>
+<tr>
+<td>
+0
+</td>
+<td>
+Zaubertricks
+</td>
+</tr>
+</table>
+</td></tr>
+<tr><td><table>
+<tr><td>Ausbessern V/G/M</td></tr>
+<tr><td>Botschaft V/G/M</td></tr>
+<tr><td>Säurespritzer V/G</td></tr>
+<tr><td>Schockgriff V/G</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr><td><table>
+<tr><td><table>
+<tr><td>1</td><td>4</td><td>0</td></tr>
+</table></td></tr>
+<tr><td><table>
+<tr><td>[X]</td> <td>Magierrüstung V/G/M</td></tr>
+<tr><td>[X]</td> <td>Magisches Geschoss V/G</td></tr>
+</table></td></tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table><tr><td>
+<table><tr>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table>
+<tr>
+<td>
+[X]
+</td>
+<td>
+Attribut Verbessern V/G/M
+</td>
+</tr>
+<tr><td>
+[X]
+</td>
+<td>
+Gedanken Wahrnehmen V/G/M
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table><tr><td>
+<table><tr><td>3</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+<table><tr><td>4</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+<table><tr><td>5</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table><tr><td>
+<table><tr><td>6</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+<table><tr><td>7</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+<table><tr><td>8</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+<table><tr><td>9</td><td>0</td> <td>0</td></tr></table>
+<table><tr><td>[ ]</td><td></td></tr></table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
 </table>
