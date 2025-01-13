@@ -82,12 +82,21 @@ böse sein, aber auch nicht ihr Leben für andere opfern.
 ### Aussehen
 Das Aussehen stelle ich mir als gelb-goldene Katze vor. Dies soll eine Art majestätik ausstrahlen und den Gottesglauben
 unterstreichen. Außerdem unterstreicht das den Aspekt des Chaos. Die Hybridform soll von der Größe her so im Bereich von
-1,25 m vor. Hierbei werden einzelne Aspekte beibehalten. Dies betrifft vor allem Katzenohren, die Hände sind weiterhin
+1,25 m sein. Hierbei werden einzelne Aspekte beibehalten. Dies betrifft vor allem Katzenohren, die Hände sind weiterhin
 Pfoten, einen Schwanz sowie Klauen, wenn auch etwas größer ausgeprägt (da Größe eben höher) aber nicht ganz so scharf. 
 Vom Menschen her bleiben die Eigenschaften des Laufens auf zwei Beinen sowie die angedeutete Größe geringerer Behaarung.
 Als Mensch handelt es sich um eine kleine Frau mit einer Größe von 1,53 m. Hierbei sind visuell keine katzenartigen
 Eigenschaften mehr vorhanden. Die Eleganz sowie Geschicklichkeit der Katze wird durch die Wildheit und Ungeschicktheit
-der Menschen ersetzt. 
+der Menschen ersetzt.  
+Die menschliche Form ist verglichen klein, zierlich und mit sehr weicher Haut. Es handelt sich um eine junge Frau, zumindest
+vom Aussehen her. Sie trägt kurze Kleidung, läuft barfuß, hat goldenes Haar (in der Farbe des Katzenfells) und Tiefschwarze
+Augen, welche sich beim Hineinsehen so anfühlen, als würde man in das Nichts fallen.
+Das Haar ist Brustlang. Die Kleidung ist so geschnitten, dass sie bei Bewegung nicht stört,
+jedoch auch nicht als unangemessen empfunden wird. Hierbei ist ein seidener Minirock vorstellbar, sowie eine Oberkörperkleidung,
+welche kaum mehr als die Brust bedeckt. Vorstellbar ist auch ein kurzes Kleid. Der Kleidungsstil ist hierbei gold-lila gehalten.
+Sie trägt eine Art Diadem, mit dem Emblem des Gottes ausgestattet und verziert. Dies soll die Zuordnung zu einer höheren
+Klasse als das gemeine Volk darstellen. Das Diadem sieht etwas älter aus, jedoch gut gepflegt. Das Diadem ist ein Geschenk
+ihrer Mutter gewesen und das letzte was ihr von ihr übrig geblieben ist.
 ### Zurodnung Formen zu Emotionen
 Die Standardform soll die Hybridform sein. Diese kombiniert die Vorteile von beiden Formen, hat diese jedoch nicht ganz
 ausgeprägt. Diese steht vor allem für die Kommunikationsfähigkeit, die Schreibfähigkeit und ist auch allgemein die Form
@@ -97,7 +106,18 @@ Unbeherrschtheit auftauchen. Dies kann durch kämpferisches Verhalten geschehen,
 Die Katzenform steht für die Gewandheit, Flinkheit und für die Möglichkeit sich zu verstecken. Hierbei wird diese Form
 vor allem bei Verspieltheit erscheinen, aber auch bei Angst, Irritation oder Trauer. Diese Form ist aber auch beim 
 Verlangen ungesehen und versteckt zu sein von größter Bedeutung.
-
+### Vibe
+Der Charakter soll als junges, verspieltes, chaotisches Mädchen erscheinen. Dieses wechselt die Formen je nachdem was gerade
+passiert. Trotz des geringen Alters, da es ja grundlegend eine Katze ist, wirkt sie älter, erfahrener und weiser als die
+ältesten Elfen. Sie scheint Wissen zu besitzen, welches sont unerreichbar scheint, und doch ist sie immer weiter auf der
+Suche nach Wissen. Vor allem der Bereich der Magie interessiert sie und die Hintergründe dieser. Manchmal passieren
+unkontrollierbare Sachen, ein Zeichen ihrer wilden menschlichen Art. So klein und niedlich sie auch wirkt, sie ist doch
+das Wesen, was am meisten weiß, am meisten arroganz besitzt und sich aber vor unnötigen Scherereien drückt. Hierbei kann
+sie leicht beleidigt sein, dieses jedoch auch ignorieren, wenn es ihr großen Nutzen bereitet. Sie scheint immer ihren
+eigenen Willen zu verfolgen, wird die Gruppe vielleicht auch mal zu unvorhergesehenen Wege zwingen und verbringt täglich
+eine lange Zeit damit zu schreiben. Hierbei schreibt sie in einer Sprache und liest in einer Sprache, die für alle anderen
+komplett unverständlich ist. Oder sind es doch mehrere Sprachen? Sie wird die anderen Charaktere sich dumm fühlen lassen,
+dafür sorgen, dass Streitigkeiten entstehen zu ihrer Belustigung und allgemein große, fast unerreichbare Erwartungen haben.
 ## Character Sheet
 ### Page 1
 <table>
