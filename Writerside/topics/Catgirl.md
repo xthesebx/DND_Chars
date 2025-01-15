@@ -23,7 +23,7 @@ unabdinglich, da einige Regeln (die Lykanthropie) komplett Homebrew sind und man
 erzeugt mit so einem Charakter. Alles ist bisher noch Work in progress und nicht final.
 ### Story
 Da viele der folgenden Punkte auf der Story basieren, fange ich hier mit der Story an.  
-Wir sind eine vom Katzengott (Name je nach Story halt) gesegnete Rasse. Hierbei wurde daraus ein Kult, welcher diese
+Wir, die Felis Sanctum, sind eine vom Katzengott (Name je nach Story halt, Kult ist dann Gottname + Zeugen) gesegnete Rasse. Hierbei wurde daraus ein Kult, welcher diese
 Gottheit anbetet und versucht Informationen und Wissen zu sammeln. Der Kult berherbergt einiges an Wissen über das
 Universum. Hierbei sind die Tabaxi eine Sub-Rasse, die aus uns entstanden ist und durch ihre festgelegte humanoide Form
 als makelhaft angesehen werden. Tabaxi sind durchschnittlich weniger intelligent, geschickt und gelehrt.  
