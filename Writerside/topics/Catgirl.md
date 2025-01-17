@@ -91,7 +91,8 @@ böse sein, aber auch nicht ihr Leben für andere opfern.
 Das Aussehen stelle ich mir als gelb-goldene Katze vor. Dies soll eine Art majestätik ausstrahlen und den Gottesglauben
 unterstreichen. Außerdem unterstreicht das den Aspekt des Chaos. Die Hybridform soll von der Größe her so im Bereich von
 1,25 m sein. Hierbei werden einzelne Aspekte beibehalten. Dies betrifft vor allem Katzenohren, die Hände sind weiterhin
-Pfotenartig, jedoch existiert bereits ein Daumen (fucking praktisch die Dinger), einen Schwanz sowie Klauen, wenn auch etwas größer ausgeprägt (da Größe eben höher) aber nicht ganz so scharf. 
+Pfotenartig, jedoch existiert bereits ein Daumen (fucking praktisch die Dinger), einen Schwanz, spitze Zähne,
+sowie Klauen, wenn auch etwas größer ausgeprägt (da Größe eben höher) aber nicht ganz so scharf. 
 Vom Menschen her bleiben die Eigenschaften des Laufens auf zwei Beinen sowie die angedeutete Größe geringerer Behaarung.
 Als Mensch handelt es sich um eine kleine Frau mit einer Größe von 1,53 m. Hierbei sind visuell keine katzenartigen
 Eigenschaften mehr vorhanden. Die Eleganz sowie Geschicklichkeit der Katze wird durch die Wildheit und Ungeschicktheit
